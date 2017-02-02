@@ -1,5 +1,5 @@
 ### 使用Beautiful Soup抓取结构化数据
-> 简书 http://www.jianshu.com/p/74c1acd7ca8b
+> 文章在简书 http://www.jianshu.com/p/74c1acd7ca8b
 
 写了Scrapy XPath抓取结构化数据的方法和技巧：
 * [《再谈Scrapy抓取结构化数据》](http://www.jianshu.com/p/3d52e6046782)
